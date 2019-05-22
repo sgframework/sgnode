@@ -1,0 +1,3 @@
+\\cdn\cdn\Program Files\Windows Server\Bin\WebApps\Site\cdn\.npm\sgcdn\obj\Debug\sgcdn.njsprojAssemblyReference.cache
+\\cdn\cdn\Program Files\Windows Server\Bin\WebApps\Site\cdn\.npm\sgcdn\obj\Debug\sgcdn.njsproj.CoreCompileInputs.cache
+\\cdn\cdn\Program Files\Windows Server\Bin\WebApps\Site\cdn\.npm\sgcdn\bin\Microsoft.NodejsTools.WebRole.dll
